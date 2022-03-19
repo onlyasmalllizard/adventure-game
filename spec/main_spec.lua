@@ -1,0 +1,5 @@
+describe('Check tests run', function ()
+    it('successfully runs a test', function ()
+        assert.are.equal(1,1)
+    end)
+end)
